@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2017-08-09T05:09:44Z" finished-at="2017-08-09T05:09:44Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="31" started-at="2017-08-09T05:09:44Z" finished-at="2017-08-09T05:09:44Z">
+      <class name="packageOne.ClassTwo">
+        <test-method status="PASS" signature="testtwo()[pri:0, instance:packageOne.ClassTwo@33a10788]" name="testtwo" duration-ms="0" started-at="2017-08-09T10:39:44Z" finished-at="2017-08-09T10:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtwo -->
+      </class> <!-- packageOne.ClassTwo -->
+      <class name="packageOne.ClassOne">
+        <test-method status="PASS" signature="testone()[pri:0, instance:packageOne.ClassOne@233c0b17]" name="testone" duration-ms="0" started-at="2017-08-09T10:39:44Z" finished-at="2017-08-09T10:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testone -->
+      </class> <!-- packageOne.ClassOne -->
+      <class name="packageOne.ClassFour">
+        <test-method status="PASS" signature="testfour()[pri:0, instance:packageOne.ClassFour@34033bd0]" name="testfour" duration-ms="0" started-at="2017-08-09T10:39:44Z" finished-at="2017-08-09T10:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfour -->
+      </class> <!-- packageOne.ClassFour -->
+      <class name="packageOne.ClassThree">
+        <test-method status="PASS" signature="testthree()[pri:0, instance:packageOne.ClassThree@7006c658]" name="testthree" duration-ms="0" started-at="2017-08-09T10:39:44Z" finished-at="2017-08-09T10:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testthree -->
+      </class> <!-- packageOne.ClassThree -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
